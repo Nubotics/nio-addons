@@ -1,0 +1,21 @@
+{
+  "name": "nio-addons",
+  "version": "0.0.1",
+  "description": "Tools for working with nio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nio",
+    "server"
+  ],
+  "author": "@nubuck",
+  "license": "MIT",
+  "dependencies": {
+    "process-env": "^1.1.0",
+    "fs-extra-promise-es6": "^0.1.1",
+    "nio-tools": "0.0.1",
+    "node-glob-loader": "0.0.15"
+  }
+}
